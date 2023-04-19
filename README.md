@@ -1,1 +1,1 @@
-# miniproject05 : Build dashboard
+# miniproject02 : superstore
