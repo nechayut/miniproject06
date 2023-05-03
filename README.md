@@ -14,5 +14,5 @@ Product analysis : clustering_superstore.ipynb
 
 
 
-sales forcasting model
+sales forcasting model : Superstore Sales Linear Regression Model
 
