@@ -1,4 +1,4 @@
-# miniproject02 : superstore
+# miniproject05 : superstore
 
 sale & profit analysis 
 
